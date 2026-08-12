@@ -1,6 +1,6 @@
 const slideshow = new Siema({
   selector: '.slideshow',
-  duration: 2000,
+  duration: 3000,
   easing: 'ease-out',
   loop: true
 });
